@@ -1,5 +1,5 @@
 # Preview
-![Happy Christmas](https://github.com/victorcmarinho/login-mountain/blob/master/src/assets/login%20mountain.png)
+![Preview](https://github.com/victorcmarinho/login-mountain/blob/master/src/assets/login%20mountain.png)
 
 # Getting Started with Create React App
 
